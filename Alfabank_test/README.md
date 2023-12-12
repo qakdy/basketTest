@@ -4,7 +4,7 @@
 3. При написании тестов были использованы CSS и Xpath-локаторы, а также использование регулярных выражений;
 4. В ходе написания тестов были использованны известнные паттерны;
 5. Написанные тесты размещены на личном GitHub с публичным доступом()
-6. # [Отчет] (https://docs.google.com/spreadsheets/d/1F8krzYMivbMWzWYdkW20Qu3RZKhk7Ok7P9-GfC7r8lI/edit?usp=sharing)
+6. Отчет https://docs.google.com/spreadsheets/d/1F8krzYMivbMWzWYdkW20Qu3RZKhk7Ok7P9-GfC7r8lI/edit?usp=sharing
 7. Установка:
 - `git clone https://github.com/qakdy/basketTest.git`
 - Открыть файл в редакторе кода (например VSCode)
